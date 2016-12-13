@@ -82,8 +82,8 @@
       </div>
     <% } %>
     <div class="jumbotron">
-      <h1>Bespoke Suits for Dogs</h1>
-      <p><i>Why can't your canine companion be classy too?</i></p>
+      <h1>A page about Cars??</h1>
+      <p><i>Get rid of all this doggy talk...?</i></p>
     </div>
     <div class="page-header">
       <h1>Our Products</h1>
@@ -93,11 +93,11 @@
       <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">Enjoy a Night on the Town</h3>
+            <h3 class="panel-title">Flashy Cars</h3>
           </div>
           <div class="panel-body">
             Meeting your special someone? Make sure your dog looks the part!
-            <img src="images/casual-dog2.png" style="width:236px;height:295px;">
+            <img src="images/Car2.jpg" style="width:236px;height:295px;">
           </div>
         </div>
       </div>
@@ -107,8 +107,8 @@
             <h3 class="panel-title">Great for Family Photos</h3>
           </div>
           <div class="panel-body">
-            With suits these fashionable, no one will question why your pet is there!
-            <img src="images/fancy-dog3.png" style="width:295px;height:433px;">
+            Blue car?
+            <img src="images/Car1.jpeg" style="width:295px;height:433px;">
           </div>
         </div>
       </div>
@@ -118,9 +118,8 @@
             <h3 class="panel-title">Free alterations</h3>
           </div>
           <div class="panel-body">
-            Don't let this happen to your pooch! 
-            Every purchase comes with free custom alterations to ensure a comfortable and snazzy fit.
-            <img src="images/alterations-dog4.png" style="width:287px;height:300px;">
+            Not really sure this section is relvant
+            <img src="images/Car3.jpg" style="width:287px;height:300px;">
           </div>
         </div>
       </div>
